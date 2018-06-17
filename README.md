@@ -1,7 +1,7 @@
 ## Data Analyst Nanodegree Project: Identify Enron Persons of Interest
 
 In this project, I used supervised machine learning techniques in Python to identify people who committed fraud in the Enron scandal 
-of the early 2000's. In the process, I removed outliers in the data, selected for the features that would create the best classifer, 
+of the early 2000's. In the process, I removed outliers in the data, selected for the features that would create the best classifier, 
 and picked the algorithm and parameters that would yield the best results.
 
 Files in this repository:
